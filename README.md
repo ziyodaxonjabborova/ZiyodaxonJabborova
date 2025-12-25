@@ -109,14 +109,14 @@ print(f"Current focus: {me.daily_routine()}")
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
-## 🎯 2025 Mission Goals
+## 🎯 2026 Mission Goals
 
 <div align="center" style="background: linear-gradient(135deg, #0D1117, #B35A47); padding: 25px; border-radius: 20px; margin: 20px;">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1500&color=B35A47&center=true&vCenter=true&width=600&lines=⚡+Mastering+FastAPI+Like+a+Boss+⚡;🚀+Building+Next-Gen+Applications+🚀;☁️+Conquering+Cloud+Technologies+☁️;🔥+Leveling+Up+Every+Single+Day+🔥!" />
 
 <pre>
-# My 2025 Coding Mission 🎯⚡
+# My 2026 Coding Mission 🎯⚡
 mission = {
     "⚡ Q1": {
         "targets": ["FastAPI Mastery 🚀", "React Domination ⚛️", "Docker Skills 🐳"],
@@ -165,5 +165,6 @@ print("⚡ Every bug is just another boss to defeat! ⚡")
 
 <br>
 
-<sub>⚡ Built with 💻, ☕ and lots of 🚀 by <strong>Ziyodaxon Jabborova</strong> | 2025 ⚡</sub>
+<sub>Built with Python 🐍, Django ⚡ & ☕ by <strong>Ziyodaxon Jabborova</strong> | 2026 | Open to collaboration 🤝
+</sub>
 </div>
