@@ -103,6 +103,8 @@ print(f"Goal: {me.mission}")
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
+
+
 ## 🎯 2026 Professional Roadmap
 
 <div align="center" style="background: linear-gradient(135deg, #0D1117, #B35A47); padding: 25px; border-radius: 20px; margin: 20px;">
