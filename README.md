@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/🎯_Backend_Specialist_⚡️-B35A47?style=for-the-badge&logo=server&logoColor=white&labelColor=B35A47" />
 <img src="https://img.shields.io/badge/🚀_Future_EPAMer-B35A47?style=for-the-badge&logo=rocket&logoColor=white&labelColor=B35A47" />
 
-<img src="https://komarev.com/ghpvc/?username=ZiyodaxonJabborova&style=for-the-badge&color=B35A47&label=👀+VISITORS&labelColor=B35A47" />
+<img src="https://komarev.com/ghpvc/?username=ziyoda13&style=for-the-badge&color=B35A47&label=👀+VISITORS&labelColor=B35A47" />
 
 </div>
 
@@ -36,7 +36,7 @@
 
 <pre>
 class Ziyodaxon:
-    def init(self):
+    def __init__(self):
         self.name = "Ziyodaxon Jabborova 💎"
         self.role = "Python Backend Engineer 💻"
         self.focus = "High-Performance APIs ⚡️"
@@ -81,8 +81,6 @@ print(f"Goal: {me.mission}")
 
 </div>
 
-
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
@@ -90,13 +88,12 @@ print(f"Goal: {me.mission}")
 ## 📊 GitHub Performance
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiyodaxonJabborova&theme=react-dark&bg_color=0D1117&color=B35A47&line=B35A47&point=B35A47&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziyoda13&theme=react-dark&bg_color=0D1117&color=B35A47&line=B35A47&point=B35A47&area=true&hide_border=true" width="95%"/>
 </div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
-
 
 ## 🎯 2026 Professional Roadmap
 
@@ -134,7 +131,7 @@ mission = {
 <a href="mailto:ziyodaxon1309@gmail.com">
 <img src="https://img.shields.io/badge/📧_Email-B35A47?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF7F50" />
 </a>
-<a href="https://github.com/ZiyodaxonJabborova">
+<a href="https://github.com/ziyoda13">
 <img src="https://img.shields.io/badge/🐙_GitHub-B35A47?style=for-the-badge&logo=github&logoColor=white&labelColor=FF7F50" />
 </a>
 
@@ -147,9 +144,6 @@ mission = {
 
 <br>
 
-<sub>Designed for Professional Impact | 2026 | Ziyodaxon Jabborova
+<sub>Designed for Professional Impact | 2026 | Ziyodaxon Jabborova 
 </sub>
 </div>
-
-
-
