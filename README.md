@@ -91,7 +91,10 @@ print(f"Current focus: {me.daily_routine()}")
 
 ## 📊 GitHub Stats
 
-
+<div align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ZiyodaxonJabborova&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B35A47&text_color=ffffff&icon_color=B35A47&border_radius=15"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyodaxonjabborova&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B35A47&text_color=ffffff&border_radius=15"/>
+</div>
 
 <div align="center" style="margin: 20px 0;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiyodaxonJabborova&theme=tokyonight&hide_border=true&background=0D1117&stroke=B35A47&ring=B35A47&fire=B35A47&currStreakLabel=B35A47&sideLabels=ffffff&currStreakNum=B35A47&border_radius=15" />
@@ -104,6 +107,7 @@ print(f"Current focus: {me.daily_routine()}")
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
+
 
 ## 🎯 2026 Mission Goals
 
