@@ -97,11 +97,11 @@ print(f"Current focus: {me.daily_routine()}")
 </div>
 
 <div align="center" style="margin: 20px 0;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiyodaxonJabborova&theme=tokyonight&hide_border=true&background=0D1117&stroke=B35A47&ring=B35A47&fire=B35A47&currStreakLabel=B35A47&sideLabels=ffffff&currStreakNum=B35A47&border_radius=15" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziyodaxonjabborova&theme=tokyonight&hide_border=true&background=0D1117&stroke=B35A47&ring=B35A47&fire=B35A47&currStreakLabel=B35A47&sideLabels=ffffff&currStreakNum=B35A47&border_radius=15" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiyodaxonJabborova&theme=react-dark&bg_color=0D1117&color=B35A47&line=B35A47&point=B35A47&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziyodaxonjabborova&theme=react-dark&bg_color=0D1117&color=B35A47&line=B35A47&point=B35A47&area=true&hide_border=true" width="95%"/>
 </div>
 
 <div align="center">
