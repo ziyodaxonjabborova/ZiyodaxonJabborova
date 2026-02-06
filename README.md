@@ -92,7 +92,7 @@ print(f"Current focus: {me.daily_routine()}")
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ZiyodaxonJabborova&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B35A47&text_color=ffffff&icon_color=B35A47&border_radius=15"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ziyodaxonjabborova&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B35A47&text_color=ffffff&icon_color=B35A47&border_radius=15"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyodaxonjabborova&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B35A47&text_color=ffffff&border_radius=15"/>
 </div>
 
