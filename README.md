@@ -22,24 +22,7 @@
 <table align="center">
 <tr>
 <td align="center" width="45%">
-<div style="
-    width: 100%;
-    max-width: 600px;
-    margin: auto;
-    border-radius: 15px;
-    overflow: hidden;
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25);
-">
-    <img 
-        src="https://cdn.pixabay.com/gif/2026/01/05/20/12/matrix-coding-programming-25406.gif" 
-        alt="Programming Animation" 
-        style="
-            width: 100%;
-            display: block;
-            object-fit: cover;
-        "
-    />
-</div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Cool Developer" style="border-radius: 15px; box-shadow: 0 0 20px rgba(179, 90, 71, 0.3);" />
 
 ✨ Professional Summary:
 - 🛠 Specializing in Python Backend ecosystem.
